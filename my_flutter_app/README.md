@@ -1,6 +1,6 @@
 #  Talko — Your AI Chat Companion
 
-**Talko** is a Flutter-based AI chatbot app that delivers a WhatsApp-like chat experience.  
+**Talko** is a Flutter-based AI chatbot app that delivers a chat experience.  
 Built with Firebase, Gemini API, and Riverpod, Talko allows users to authenticate, engage in real-time conversations with an AI, and view their chat history seamlessly.
 
 ---
